@@ -5,38 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b9ae0424-dce1-42cf-9899-1778a45c71be" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.env" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/RoutineMakerApi.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/extensions.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/migrations/README" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/migrations/alembic.ini" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/migrations/env.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/migrations/script.py.mako" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/migrations/versions/1374784e74d0_initial_migration.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/migrations/versions/3390ca40607c_add_shift_availability_to_class.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/migrations/versions/c22e9c5a20bb_make_teacher_id_unique_in_daily_.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/migrations/versions/f73289069641_fix_the_foreign_key_mistake.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/models/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/models/classes.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/models/school_data.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/models/subjects.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/models/teachers.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/routes/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/routes/classes.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/routes/routine.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/routes/school_data.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/routes/subjects.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/routes/teachers.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/routine_constraints/.ipynb_checkpoints/test_constraints-checkpoint.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/routine_constraints/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/routine_constraints/constraints.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/routine_constraints/generate_routine.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/routine_constraints/schedule_results.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/routine_constraints/test_constraints.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/routine_constraints/generate_routine.py" beforeDir="false" afterPath="$PROJECT_DIR$/routine_constraints/generate_routine.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -68,7 +38,7 @@
     "Python.data.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "master",
+    "git-widget-placeholder": "main",
     "settings.editor.selected.configurable": "com.jetbrains.python.black.configuration.BlackFormatterConfigurable"
   }
 }]]></component>
